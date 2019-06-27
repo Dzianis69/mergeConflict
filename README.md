@@ -1,2 +1,3 @@
 # mergeConflict
-conflict
+hello from branch1
+
